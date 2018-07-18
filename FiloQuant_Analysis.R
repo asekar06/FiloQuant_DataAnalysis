@@ -1,3 +1,5 @@
+##Example here written using SRGAP2 as gene of choice. Supplement with your own.
+
 ##FOR SRGAP2A
 ##set the working directory for the desired group of files for analysis
 setwd("C:/Users/admin/Desktop/Filopodia Cell Images/SRGAP2/SRGAP2A/SRGAP2A_FiloQuantResults")
